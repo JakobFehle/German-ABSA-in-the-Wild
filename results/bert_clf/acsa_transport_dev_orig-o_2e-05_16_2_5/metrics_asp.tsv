@@ -1,0 +1,23 @@
+	precision	recall	f1	accuracy	support
+accessibility	0.0	0.0	0.0	0.0	15.0
+app	0.0	0.0	0.0	0.0	22.0
+atmosphere	0.0	0.0	0.0	0.0	136.0
+capacity	0.0	0.0	0.0	0.0	28.0
+child friendliness	0.0	0.0	0.0	0.0	3.0
+comfort	0.0	0.0	0.0	0.0	18.0
+connectivity	0.0	0.0	0.0	0.0	22.0
+design	0.0	0.0	0.0	0.0	3.0
+food	0.0	0.0	0.0	0.0	3.0
+general	0.8489	0.7443	0.7932	0.6573	1599.0
+image	0.0	0.0	0.0	0.0	6.0
+information	0.0	0.0	0.0	0.0	29.0
+luggage	0.0	0.0	0.0	0.0	2.0
+miscellaneous	1.0	0.0355	0.0685	0.0355	141.0
+qr-code	0.0	0.0	0.0	0.0	1.0
+ride	0.9333	0.0741	0.1373	0.0737	190.0
+safety	0.0	0.0	0.0	0.0	60.0
+service	0.0	0.0	0.0	0.0	44.0
+tickets	0.0	0.0	0.0	0.0	65.0
+toilets	0.0	0.0	0.0	0.0	5.0
+Micro-AVG	0.8506	0.4855	0.6181	0.4473	2392.0
+Macro-AVG	0.1391	0.0427	0.05		2392

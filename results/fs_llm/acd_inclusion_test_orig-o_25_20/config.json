@@ -1,0 +1,11 @@
+{
+    "model_name": "meta-llama/Llama-3.1-8B-instruct",
+    "task": "acd",
+    "data_setting": "orig",
+    "dataset": "inclusion",
+    "eval_type": "test",
+    "seed": 20,
+    "temperature": 0,
+    "max_tokens": 200,
+    "eval_time": 17.387296676635742
+}

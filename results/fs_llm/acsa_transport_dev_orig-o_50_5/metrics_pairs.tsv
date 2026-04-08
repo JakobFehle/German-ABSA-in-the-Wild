@@ -1,0 +1,63 @@
+	precision	recall	f1	accuracy	support
+general:positive	0.4	0.3768	0.3881	0.2407	216.0
+general:neutral	0.7564	0.7564	0.7564	0.6082	1409.0
+general:negative	0.1571	0.5424	0.2436	0.1387	923.0
+miscellaneous:positive	0.0	0.0	0.0	0.0	3.0
+miscellaneous:neutral	0.0	0.0	0.0	0.0	7.0
+miscellaneous:negative	0.5625	0.0489	0.09	0.0471	191.0
+tickets:positive	0.0	0.0	0.0	0.0	10.0
+tickets:neutral	0.0	0.0	0.0	0.0	16.0
+tickets:negative	0.0	0.0	0.0	0.0	54.0
+safety:positive	0.0	0.0	0.0	0.0	2.0
+safety:neutral	0.0	0.0	0.0	0.0	2.0
+safety:negative	0.8696	0.2	0.3252	0.1942	103.0
+atmosphere:positive	0.4	0.1818	0.25	0.1429	14.0
+atmosphere:neutral	0.0	0.0	0.0	0.0	25.0
+atmosphere:negative	0.6667	0.0296	0.0567	0.0292	137.0
+ride:positive	0.5	0.0196	0.0377	0.0192	52.0
+ride:neutral	0.0	0.0	0.0	0.0	21.0
+ride:negative	0.2273	0.0621	0.0976	0.0513	195.0
+information:positive	0.0	0.0	0.0	0.0	2.0
+information:neutral	0.0	0.0	0.0	0.0	8.0
+information:negative	0.0	0.0	0.0	0.0	24.0
+capacity:positive	0.0	0.0	0.0	0.0	10.0
+capacity:neutral	0.0	0.0	0.0	0.0	2.0
+capacity:negative	0.75	0.125	0.2143	0.12	25.0
+app:positive	0.0	0.0	0.0	0.0	6.0
+app:neutral	0.0	0.0	0.0	0.0	6.0
+app:negative	0.0	0.0	0.0	0.0	13.0
+service:positive	0.0	0.0	0.0	0.0	14.0
+service:neutral	0.0	0.0	0.0	0.0	6.0
+service:negative	0.5	0.0357	0.0667	0.0345	29.0
+connectivity:positive	1.0	0.0833	0.1538	0.0833	12.0
+connectivity:neutral	0.0	0.0	0.0	0.0	1.0
+connectivity:negative	1.0	0.1176	0.2105	0.1176	17.0
+child friendliness:positive	0	0	0	0	0
+child friendliness:neutral	0.0	0.0	0.0	0.0	1.0
+child friendliness:negative	0.0	0.0	0.0	0.0	8.0
+comfort:positive	0.0	0.0	0.0	0.0	8.0
+comfort:neutral	0.0	0.0	0.0	0.0	2.0
+comfort:negative	0.0	0.0	0.0	0.0	17.0
+design:positive	0.0	0.0	0.0	0.0	2.0
+design:neutral	0	0	0	0	0
+design:negative	0.0	0.0	0.0	0.0	4.0
+toilets:positive	0.0	0.0	0.0	0.0	1.0
+toilets:neutral	0.0	0.0	0.0	0.0	2.0
+toilets:negative	0.2857	0.6667	0.4	0.25	8.0
+accessibility:positive	0.0	0.0	0.0	0.0	3.0
+accessibility:neutral	0.0	0.0	0.0	0.0	2.0
+accessibility:negative	1.0	0.0833	0.1538	0.0833	12.0
+luggage:positive	0	0	0	0	0
+luggage:neutral	0	0	0	0	0
+luggage:negative	0.0	0.0	0.0	0.0	3.0
+food:positive	0	0	0	0	0
+food:neutral	0.0	0.0	0.0	0.0	2.0
+food:negative	0.0	0.0	0.0	0.0	4.0
+qr code:positive	0.0	0.0	0.0	0.0	1.0
+qr code:neutral	0	0	0	0	0
+qr code:negative	0	0	0	0	0
+image:positive	0.0	0.0	0.0	0.0	4.0
+image:neutral	0.0	0.0	0.0	0.0	2.0
+image:negative	0.0	0.0	0.0	0.0	2.0
+Micro-AVG	0.4917	0.4349	0.4616	0.3	3643.0
+Macro-AVG	0.1513	0.0555	0.0574		3643

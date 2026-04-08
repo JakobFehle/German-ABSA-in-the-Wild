@@ -1,0 +1,2203 @@
+{
+    "test": [
+        {
+            "predictions": [
+                "functional scope:positive:Programmanwendung"
+            ],
+            "gold_labels": [
+                "general experience:positive:Programmanwendung"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "functional scope:positive:Verknüpfungen",
+                "interface design:positive:NULL"
+            ],
+            "gold_labels": [
+                "interface design:positive:NULL",
+                "functional scope:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:NULL"
+            ],
+            "gold_labels": [
+                "general experience:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Handhabung",
+                "functional scope:positive:Extras"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Extras",
+                "functional scope:positive:Arbeitserleichterungen"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Besser"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Sucherei",
+                "technical performance:negative:Unternehmen online"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Sucherei"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Felder"
+            ],
+            "gold_labels": [
+                "interface design:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Optik und UE",
+                "general experience:positive:Monatsabschluss"
+            ],
+            "gold_labels": [
+                "interface design:negative:Optik",
+                "ease of use:negative:UE",
+                "functional scope:positive:NULL",
+                "functional scope:positive:Monatsabschluss"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:NULL",
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "interface design:negative:NULL",
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:Programm"
+            ],
+            "gold_labels": [
+                "general experience:positive:Programm"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Jahresabschluss entwickeln"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Jahresabschluss entwickeln"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:DATEV"
+            ],
+            "gold_labels": [
+                "ease of use:negative:DATEV"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Hochladen von Belegen"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Hochladen von Belegen"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Bedienung",
+                "functional scope:positive:Hilfestellungen"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Bedienung",
+                "functional scope:positive:Hilfestellungen"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:neutral:NULL"
+            ],
+            "gold_labels": [
+                "general experience:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Verbindung Steuererklärungen"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Verbindung Steuererklärungen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Verzeichnisbaum",
+                "functional scope:negative:Personalauswertungen Online"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Verzeichnisbaum"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:positive:Unterstützung in Personalarbeit"
+            ],
+            "gold_labels": [
+                "general experience:positive:DATEV"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "ease of use:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL",
+                "interface design:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:DATEV"
+            ],
+            "gold_labels": [
+                "general experience:negative:DATEV"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:nderungen"
+            ],
+            "gold_labels": [
+                "ease of use:negative:nderungen"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Kalendarium",
+                "interface design:negative:Kalender in Lohn&Gehalt"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Kalender in Lohn&Gehalt",
+                "technical performance:negative:Kalendarium",
+                "interface design:negative:Kalendarium"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Absicherung bei Rückfragen",
+                "customer support:positive:NULL",
+                "functional scope:positive:steuerkonto.online"
+            ],
+            "gold_labels": [
+                "customer support:positive:Absicherung bei Rückfragen",
+                "customer support:positive:Anfragen",
+                "customer support:positive:steuerkonto.online"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:Digitalisierung"
+            ],
+            "gold_labels": [
+                "general experience:negative:Digitalisierung"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Hochladen bzw. ffnen der Kassenbearbeitung"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Kassenbearbeitung"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Fehlermeldung"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL",
+                "technical performance:negative:Fehlermeldung"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:neutral:NULL"
+            ],
+            "gold_labels": [
+                "general experience:neutral:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Programme"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Programme"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Programmverbindungen zwischen Jahresabschluss und AP Comfort",
+                "functional scope:negative:Bilanzbericht und Arbeitspapiere"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Programmverbindungen zwischen Jahresabschluss und AP Comfort"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Hilfe-Themen",
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Hilfe-Themen",
+                "functional scope:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Wartezeit"
+            ],
+            "gold_labels": [
+                "technical performance:negative:LODAS Auswertungen"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:LSt-Bescheinigungen"
+            ],
+            "gold_labels": [
+                "functional scope:negative:LSt-Bescheinigungen für Vorjahr"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Dokument"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Literatur und Lösungsbeschreibungen",
+                "ease of use:positive:Antwort auf Anfragen",
+                "functional scope:positive:Import von Daten durch Schnittstellen zu Mandanten und Behörden",
+                "technical performance:positive:Umsetzung"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Literatur",
+                "functional scope:positive:Lösungsbeschreibungen",
+                "customer support:positive:Erreichbarkeit",
+                "customer support:positive:Antwort",
+                "technical performance:positive:Gesetzliche nderungen",
+                "functional scope:positive:Import von Daten"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:NULL",
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Nutzungsmöglichkeiten",
+                "functional scope:positive:Analysetools"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Nutzungsmöglichkeiten",
+                "functional scope:positive:Analysetools"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Fehler"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "pricing:negative:Kosten"
+            ],
+            "gold_labels": [
+                "pricing:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:NULL",
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:positive:Rechtsstand",
+                "interface design:positive:Aufbau",
+                "technical performance:positive:Arbeiten",
+                "ease of use:positive:Programmübergreifendes Arbeiten"
+            ],
+            "gold_labels": [
+                "technical performance:positive:Rechtsstand",
+                "interface design:positive:Aufbau",
+                "ease of use:positive:Arbeiten",
+                "functional scope:positive:programmübergreifendes Arbeiten"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:PKW-Nutzung"
+            ],
+            "gold_labels": [
+                "ease of use:negative:PKW-Nutzung Darstellung"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Einstellungen"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Programmierfehler",
+                "technical performance:negative:Einstellungen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Abgrenzungsbuchung"
+            ],
+            "gold_labels": [
+                "functional scope:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "pricing:negative:Zusatzaufwand"
+            ],
+            "gold_labels": [
+                "general experience:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:eAU-Rückmeldungen von Folgeerkrankungen"
+            ],
+            "gold_labels": [
+                "functional scope:negative:eAU-Rückmeldungen"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Währungsumrechnung"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Währungsumrechnung"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:NULL",
+                "technical performance:positive:Bearbeitung der Löhne"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL",
+                "ease of use:positive:Löhne"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Abschlussermittlung mit Vermerke und Häkchen"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Abschlussermittlung"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:Lodas",
+                "technical performance:positive:Gesetzesänderungen"
+            ],
+            "gold_labels": [
+                "interface design:positive:Lodas",
+                "technical performance:positive:Programm"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Belegtransfer",
+                "functional scope:negative:Anmeldung"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Belegtransfer"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "functional scope:neutral:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:Programm",
+                "ease of use:negative:Fehlermeldung"
+            ],
+            "gold_labels": [
+                "general experience:positive:Programm",
+                "functional scope:negative:Fehlermeldung"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Fehlermeldungen",
+                "functional scope:negative:Hilfestellungen",
+                "functional scope:negative:Sprungmarken"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Fehlermeldungen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Zahlungen aus der Bank"
+            ],
+            "gold_labels": [
+                "functional scope:negative:NULL",
+                "ease of use:negative:Zahlungen"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Login"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Login"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Störungen"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Störungen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Umsetzung/Berücksichtigung des 9-Euro Ticket"
+            ],
+            "gold_labels": [
+                "functional scope:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:elektronische Rückmeldeverfahren"
+            ],
+            "gold_labels": [
+                "functional scope:negative:elektronische Rückmeldeverfahren"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:Programm Lohn und Gehalt"
+            ],
+            "gold_labels": [
+                "general experience:positive:Lohn und Gehalt"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Fehlermeldung"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Kasse"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:DUO",
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "functional scope:negative:DUO"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Bedienung"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Bedienung",
+                "interface design:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Hilfen"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Hilfen"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "technical performance:positive:Fehler"
+            ],
+            "gold_labels": [
+                "interface design:positive:NULL",
+                "ease of use:positive:Fehler"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:LuG"
+            ],
+            "gold_labels": [
+                "customer support:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:NULL"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "technical performance:positive:NULL",
+                "ease of use:positive:Eingabemasken"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Eingabemasken",
+                "technical performance:positive:NULL",
+                "interface design:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Programmablauf"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Programmablauf"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Fehlerhinweise"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Fehlerhinweise"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Programm",
+                "technical performance:negative:Speicherfunktion",
+                "technical performance:negative:Programm"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Programm",
+                "technical performance:negative:Speicherfunktion"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:NULL",
+                "interface design:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL",
+                "interface design:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Programm"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Programm"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Laufzeitverhalten"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Laufzeitverhalten"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:Inhalte",
+                "general experience:negative:Progamms"
+            ],
+            "gold_labels": [
+                "general experience:negative:Feeling des progamms"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative:Probeabrechnungen"
+            ],
+            "gold_labels": [
+                "customer support:negative:Probeabrechnungen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Belege in Zwischenablage kopieren"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Belege in Zwischenablage"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:EÜR für Freiberufler"
+            ],
+            "gold_labels": [
+                "general experience:negative:DATEV",
+                "technical performance:negative:Fehler"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Abo Daten"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Abo Daten"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Programms"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Programms"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Hochladen von Fotos"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Upload"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Übersicht"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Update"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:NULL"
+            ],
+            "gold_labels": [
+                "interface design:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Anzeige"
+            ],
+            "gold_labels": [
+                "interface design:negative:Anzeige"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Handhabung",
+                "interface design:positive:NULL",
+                "functional scope:positive:Ansicht für Mitarbeitertypen",
+                "functional scope:negative:Vorbelegung"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Handhabung",
+                "interface design:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:NULL"
+            ],
+            "gold_labels": [
+                "general experience:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL"
+            ],
+            "gold_labels": [
+                "interface design:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Jahresabschluss entwickeln",
+                "interface design:negative:Bilanz und G&V"
+            ],
+            "gold_labels": [
+                "interface design:negative:Übersicht",
+                "interface design:negative:Bilanz",
+                "interface design:negative:G&V"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Verbindung",
+                "technical performance:negative:Programm"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Programm",
+                "technical performance:negative:Verbindung"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:Seminar"
+            ],
+            "gold_labels": [
+                "customer support:positive:Seminar"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Punkt JA-abwickeln"
+            ],
+            "gold_labels": [
+                "functional scope:positive:JA-abwickeln"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Störungen",
+                "functional scope:negative:Visualisierung der Ausgaben und Einnahmen"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Störungen",
+                "functional scope:negative:Visualisierung der Ausgaben und Einnahmen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Untermenüpunkt"
+            ],
+            "gold_labels": [
+                "interface design:negative:Untermenüpunkt"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Zusatzschritte"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:text in angezeigten belegen"
+            ],
+            "gold_labels": [
+                "ease of use:negative:text in den angezeigten belegen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Rechnungen",
+                "functional scope:negative:Informationsgehalt des Rechnungsjournals"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Rechnungen",
+                "functional scope:negative:Angeboten und co"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Hilfe Center"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Hilfe Center"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Handhabung",
+                "interface design:positive:Optik/Darstellung",
+                "ease of use:positive:Zurechtfinden"
+            ],
+            "gold_labels": [
+                "interface design:positive:Optik/Darstellung",
+                "technical performance:positive:Handhabung",
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "pricing:negative:NULL"
+            ],
+            "gold_labels": [
+                "pricing:negative:Erklärvideo"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:NULL"
+            ],
+            "gold_labels": [
+                "technical performance:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Rechnungsjournal / OP"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Rechnungsjournal / OP Liste"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Abrechnungsvorschau",
+                "ease of use:negative:LuG"
+            ],
+            "gold_labels": [
+                "pricing:negative:Abrechnungsvorschau"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:neutral:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:NULL",
+                "functional scope:positive:Hilfen"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL",
+                "functional scope:positive:Hilfen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:NULL"
+            ],
+            "gold_labels": [
+                "functional scope:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Zugang zu Belegen"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Belegen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Buchungslogik",
+                "functional scope:positive:Deklaration",
+                "functional scope:positive:EBilanz",
+                "functional scope:positive:Bericht"
+            ],
+            "gold_labels": [
+                "functional scope:positive:automatisierte Prozesse",
+                "functional scope:positive:Deklaration",
+                "functional scope:positive:EBilanz",
+                "functional scope:positive:Bericht"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Bedienung",
+                "functional scope:positive:Möglichkeiten"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Bedienung",
+                "functional scope:positive:Möglichkeiten"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:Programm",
+                "functional scope:positive:Hinweise"
+            ],
+            "gold_labels": [
+                "interface design:positive:Programm",
+                "functional scope:positive:Brennpunkten"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Hinweis- und Fehlermeldungen",
+                "ease of use:negative:Hilfecenter"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Hinweis- und Fehlermeldungen",
+                "functional scope:negative:Hilfecenter"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Funktionalität",
+                "functional scope:positive:Schnittstellen",
+                "functional scope:positive:Verbindung mit DUO",
+                "ease of use:positive:Banken"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Funktionalität",
+                "ease of use:positive:NULL",
+                "functional scope:positive:Verbindung",
+                "functional scope:positive:Schnittstellen"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:positive:Übernahme von Krankheitszeiten in Datev"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Übernahme der Krankheitszeiten"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "functional scope:positive:Kontrollmechanismen",
+                "technical performance:positive:Umsetzung"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Kontrollmechanismen",
+                "interface design:positive:NULL",
+                "technical performance:positive:Gesetzgebung"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL",
+                "technical performance:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:BG"
+            ],
+            "gold_labels": [
+                "functional scope:negative:BG - Erfassung"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Farbenspiel"
+            ],
+            "gold_labels": [
+                "interface design:negative:Farbenspiel"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Belege"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Belege"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:Lohnprogramm"
+            ],
+            "gold_labels": [
+                "general experience:positive:Lohnprogramm"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Trefferquote"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Belegen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Konten zur ausgewählten Mandantenart"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Auswertungen"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:positive:Aktualisierung von gesetzlichen nderungen",
+                "ease of use:positive:Aufbau der Erfassungsfelder",
+                "ease of use:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL",
+                "technical performance:positive:gesetzlichen nderungen",
+                "interface design:positive:Erfassungsfelder"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Auswertungen"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Auswertungen"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:NULL",
+                "technical performance:positive:NULL"
+            ],
+            "gold_labels": [
+                "technical performance:positive:NULL",
+                "technical performance:positive:NULL",
+                "interface design:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Übergangsbereich"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Übergangsbereich"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Belege"
+            ],
+            "gold_labels": [
+                "interface design:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative:NULL"
+            ],
+            "gold_labels": [
+                "customer support:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Handhabe des Programms",
+                "interface design:positive:Aufbau"
+            ],
+            "gold_labels": [
+                "interface design:positive:Aufbau",
+                "ease of use:positive:Handhabe"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Abstimmfunktionen"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Abstimmfunktionen"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:NULL",
+                "interface design:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL",
+                "interface design:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Programmfunktionen",
+                "general experience:positive:Arbeiten"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Programmfunktionen",
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Datev online für Unternehmer"
+            ],
+            "gold_labels": [
+                "customer support:negative:NULL",
+                "general experience:negative:Datev online für Unternehmer"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:NULL"
+            ],
+            "gold_labels": [
+                "general experience:neutral:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:positive:nderungen"
+            ],
+            "gold_labels": [
+                "technical performance:positive:nderungen"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Bedienung"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Bedienung"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:NULL"
+            ],
+            "gold_labels": [
+                "general experience:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:DATEV"
+            ],
+            "gold_labels": [
+                "general experience:negative:DATEV"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Auswahlliste",
+                "ease of use:negative:Auswahlmöglichkeiten"
+            ],
+            "gold_labels": [
+                "interface design:negative:Auswahlliste"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:positive:Hilfsmöglichkeit"
+            ],
+            "gold_labels": [
+                "customer support:positive:NULL",
+                "ease of use:positive:Hilfe Lohn/Gehalt"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Bilanzentwicklungsübersicht"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Bilanzentwicklungsübersicht"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:positive:System"
+            ],
+            "gold_labels": [
+                "technical performance:positive:System",
+                "technical performance:positive:Dokumenten"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Bedienung",
+                "customer support:positive:Unterstützung im Rechenzentrum"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Bedienung",
+                "customer support:positive:Rechenzentrum"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Spaltenbreite in den Auswertungen",
+                "functional scope:negative:automatische Übernahme von Kundendaten aus Überweisungen",
+                "technical performance:negative:Auswertungen"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Kontenrundruf",
+                "interface design:negative:Spaltenbreite in den Auswertungen",
+                "functional scope:negative:automatische Übernahme"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:Programm"
+            ],
+            "gold_labels": [
+                "general experience:positive:Programm"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Aushilfen"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Vorerkrankungszeiten bei den Krankenkassen"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Anordnung in der Kopfleiste",
+                "functional scope:negative:Bearbeitungsmonat",
+                "customer support:negative:Probeabrechnung",
+                "functional scope:negative:Feedback"
+            ],
+            "gold_labels": [
+                "interface design:negative:Anordnung in der Kopfleiste"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Klärung"
+            ],
+            "gold_labels": [
+                "customer support:negative:LODAS"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL"
+            ],
+            "gold_labels": [
+                "interface design:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Funktionen in JA entwickeln"
+            ],
+            "gold_labels": [
+                "functional scope:positive:JA entwickeln"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Abfrage"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Abfrage"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:positive:Lodas"
+            ],
+            "gold_labels": [
+                "general experience:positive:Lodas",
+                "customer support:positive:Probeabrechnungen"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Arbeiten mit Sonder-/Ergänzungsbilanzen",
+                "ease of use:negative:Entwicklungsübersicht",
+                "functional scope:negative:E-Bilanz-Assistent"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Sonder-/Ergänzungsbilanzen",
+                "interface design:negative:Entwicklungsübersicht",
+                "ease of use:negative:E-Bilanz-Assistent"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:SoPo"
+            ],
+            "gold_labels": [
+                "functional scope:negative:SoPo",
+                "functional scope:negative:Hilfe"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Daten"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Daten"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Übermittlung/Fehlermeldungen"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Übermittlung/",
+                "functional scope:negative:Fehlermeldungen"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Kassenbuch"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Kassenbuch"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:JA-Doku",
+                "ease of use:negative:NULL",
+                "functional scope:negative:Drag and drop -Funktionen",
+                "functional scope:negative:Screenshots"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Kanzlei-Rewe",
+                "ease of use:negative:JA-Doku-Prozesse",
+                "functional scope:negative:Kanzlei-Rewe"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:Programm"
+            ],
+            "gold_labels": [
+                "general experience:positive:Programm"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Menüs"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "functional scope:positive:NULL"
+            ],
+            "gold_labels": [
+                "interface design:positive:NULL",
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Software"
+            ],
+            "gold_labels": [
+                "general experience:negative:Software"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Entwicklung"
+            ],
+            "gold_labels": [
+                "interface design:negative:NULL",
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Beanstandungen"
+            ],
+            "gold_labels": [
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Kontoverwaltung",
+                "functional scope:negative:Belegfreigabe"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Kontoverwaltung"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "ease of use:positive:IFRS"
+            ],
+            "gold_labels": [
+                "interface design:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "ease of use:positive:NULL",
+                "functional scope:positive:Vorjahre"
+            ],
+            "gold_labels": [
+                "interface design:positive:NULL",
+                "ease of use:positive:NULL",
+                "technical performance:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Dokument"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Dokument"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Belege",
+                "technical performance:negative:Bearbeitungen"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Belege",
+                "technical performance:negative:Bearbeitungen keine Berechtigungen",
+                "technical performance:negative:Kasse"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Kontierung Lohnarten",
+                "ease of use:negative:Lohnabrechnung"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Lohnabrechnung"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:Übersicht",
+                "functional scope:positive:Zusammenhänge"
+            ],
+            "gold_labels": [
+                "interface design:positive:Übersicht"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:JA Entwicklung"
+            ],
+            "gold_labels": [
+                "functional scope:negative:JA Entwicklung"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Auftragswesen next"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Auftragswesen next"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:NULL",
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "functional scope:negative:NULL",
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Gutschriften"
+            ],
+            "gold_labels": [
+                "pricing:negative:Gutschriften"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Buchungsschluss"
+            ],
+            "gold_labels": [
+                "customer support:negative:Erreichbarkeit"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Aufruf von Auftragswesen"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Filter"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Pfeile"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "ease of use:positive:NULL"
+            ],
+            "gold_labels": [
+                "interface design:positive:NULL",
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:NULL"
+            ],
+            "gold_labels": [
+                "functional scope:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Export mit einer EXCEL Liste"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Export"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:positive:NULL"
+            ],
+            "gold_labels": [
+                "customer support:positive:NULL",
+                "customer support:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Bedienerfreundlichkeit",
+                "general experience:positive:Arbeiten"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Bedienerfreundlichkeit",
+                "general experience:positive:Arbeiten"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive:NULL",
+                "functional scope:positive:Erklärungen"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Erklärungen",
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Sprache"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Sprache"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Beschreibungen zu Fehlern"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Beschreibungen zu Fehlern"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Erfassung"
+            ],
+            "gold_labels": [
+                "interface design:positive:Erfassung",
+                "ease of use:positive:Erfassung"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Urlaubsgeld"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Urlaubsgeld bei Stundenlohn-Bezug (Einmalzahlung"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative:NULL"
+            ],
+            "gold_labels": [
+                "general experience:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Ausfälle"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Ausfälle"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:mobiler upload"
+            ],
+            "gold_labels": [
+                "functional scope:negative:mobiler upload"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:Programm"
+            ],
+            "gold_labels": [
+                "general experience:positive:Durchgängigkeit der Programme"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Programm"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Störungen",
+                "technical performance:negative:Program"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Verbindung zwischen Stammdaten und Auswertungen"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Zusammenhang zwischen Stammdaten und Auswertungen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Verbindungen zu anderen Programmen",
+                "technical performance:positive:NULL"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Verbindungen zu anderen Programmen",
+                "general experience:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative:Chat"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Chat"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:User Interface"
+            ],
+            "gold_labels": [
+                "interface design:negative:User Interface"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Funktionen"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Funktionen"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Unterstützung",
+                "functional scope:positive:Belege",
+                "functional scope:positive:Kontenansicht",
+                "functional scope:positive:Steuerprogrammen"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Verknüpfung",
+                "functional scope:positive:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Auswertungen"
+            ],
+            "gold_labels": [
+                "general experience:negative:NULL",
+                "functional scope:negative:Auswertungen"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Übersicht"
+            ],
+            "gold_labels": [
+                "interface design:negative:Übersicht"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative:NULL"
+            ],
+            "gold_labels": [
+                "customer support:negative:Rückmeldung"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Oberfläche",
+                "ease of use:negative:Steuerberater"
+            ],
+            "gold_labels": [
+                "interface design:negative:Oberfläche",
+                "ease of use:negative:Oberfläche"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Präsentation"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Präsentation"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Programm",
+                "technical performance:negative:Belege"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Belege",
+                "technical performance:negative:Programm",
+                "general experience:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Angebote"
+            ],
+            "gold_labels": [
+                "functional scope:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "pricing:negative:NULL"
+            ],
+            "gold_labels": [
+                "pricing:negative:Nachfragen"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Bearbeitung",
+                "ease of use:positive:Ausfüllen",
+                "ease of use:positive:versenden"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Bearbeitung",
+                "ease of use:positive:Ausfüllen",
+                "ease of use:positive:versenden"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Software Engineer"
+            ],
+            "gold_labels": [
+                "general experience:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative:Darstellung der Notizen"
+            ],
+            "gold_labels": [
+                "interface design:negative:Notizen"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Fehler"
+            ],
+            "gold_labels": [
+                "technical performance:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:neutral:NULL",
+                "ease of use:negative:Ergebnis"
+            ],
+            "gold_labels": [
+                "functional scope:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Bedienbarkeit",
+                "functional scope:positive:Abstimmung",
+                "functional scope:positive:Kontrollmöglichkeiten"
+            ],
+            "gold_labels": [
+                "ease of use:positive:Bedienbarkeit",
+                "functional scope:positive:Kontrollmöglichkeiten"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Kapitalkonten"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Restgewinnverteilung",
+                "functional scope:positive:Kapitalkonten"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive:Handhabung",
+                "interface design:positive:Nutzer-Interface"
+            ],
+            "gold_labels": [
+                "interface design:positive:Nutzer-Interface",
+                "ease of use:positive:Handhabung"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Hilfen",
+                "ease of use:positive:NULL"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Hilfen",
+                "general experience:positive:NULL",
+                "functional scope:positive:Videos",
+                "functional scope:positive:Bot",
+                "functional scope:positive:Dokumente"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Abstimmung Anlagenprogramm und Jahresabschluss"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Abstimmung Anlagenprogramm",
+                "functional scope:negative:Jahresabschluss"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Dokumenten"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Dokumenten"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Dokumente"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Dokumente"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Kassenbuch Online"
+            ],
+            "gold_labels": [
+                "technical performance:negative:Fehler"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:System"
+            ],
+            "gold_labels": [
+                "general experience:negative:System"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Rechnung"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative:Telefonservice"
+            ],
+            "gold_labels": [
+                "customer support:negative:Telefonservice"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:Positionsnummern"
+            ],
+            "gold_labels": [
+                "functional scope:negative:Positionsnummern"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:positive:Belege"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Belege"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative:Kontenzweckzuordnung"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Kontenzweckzuordnung"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive:Jahresabschluss"
+            ],
+            "gold_labels": [
+                "functional scope:positive:Jahresabschluss"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative:NULL"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Auswahl"
+            ],
+            "gold_labels": [
+                "ease of use:negative:Auswahl"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative:Lohnabrechnung"
+            ],
+            "gold_labels": [
+                "ease of use:negative:NULL"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive:Datev"
+            ],
+            "gold_labels": [
+                "general experience:positive:Datev"
+            ]
+        }
+    ]
+}

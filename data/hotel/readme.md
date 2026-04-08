@@ -1,0 +1,1 @@
+In accordance with the creators of the corpus, it cannot be made freely available, but can be obtained upon request.

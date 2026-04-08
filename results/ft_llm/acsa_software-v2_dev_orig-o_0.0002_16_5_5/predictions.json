@@ -1,0 +1,5016 @@
+{
+    "test": [
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'positive'), ('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ],
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative'), ('ease of use', 'positive'), ('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ],
+                [
+                    "ease of use",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('pricing', 'negative')]",
+                "predictions": [
+                    [
+                        "'pricing'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "pricing",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive'), ('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('pricing', 'negative')]",
+                "predictions": [
+                    [
+                        "'pricing'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive'), ('functional scope', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('customer support', 'positive')]",
+                "predictions": [
+                    [
+                        "'customer support'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('interface design', 'positive'), ('functional scope', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('functional scope', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'positive')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'positive'), ('interface design', 'positive'), ('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ],
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('customer support', 'negative')]",
+                "predictions": [
+                    [
+                        "'customer support'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative'), ('functional scope', 'negative'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ],
+                [
+                    "ease of use",
+                    "negative"
+                ],
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative'), ('ease of use', 'negative'), ('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ],
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative'), ('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('interface design', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('pricing', 'negative')]",
+                "predictions": [
+                    [
+                        "'pricing'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "pricing",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "neutral"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive'), ('functional scope', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('ease of use', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative'), ('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'negative']",
+                "predictions": []
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('ease of use', 'positive'), ('technical performance', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('interface design', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'positive'), ('functional scope', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "general experience",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('technical performance', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive'), ('ease of use', 'positive'), ('functional scope', 'positive'), ('functional scope', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'neutral')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'neutral'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "neutral"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive'), ('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')] ",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('functional scope', 'positive'), ('technical performance', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('ease of use', 'positive'), ('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative'), ('technical performance', 'negative'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('pricing', 'negative')]",
+                "predictions": [
+                    [
+                        "'pricing'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "pricing",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ],
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')] ",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'neutral')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'neutral'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'positive')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive'), ('interface design', 'positive'), ('ease of use', 'positive'), ('technical performance', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative'), ('functional scope', 'negative'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('customer support', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'customer support'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "customer support",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'neutral')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'neutral'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "neutral"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('customer support', 'negative')]",
+                "predictions": [
+                    [
+                        "'customer support'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative'), ('functional scope', 'negative'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive'), ('functional scope', 'positive'), ('technical performance', 'positive'), ('technical performance', 'positive'), ('technical performance', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "customer support",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "customer support",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative'), ('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('customer support', 'positive'), ('customer support', 'positive'), ('customer support', 'positive')]",
+                "predictions": [
+                    [
+                        "'customer support'",
+                        "'positive'"
+                    ],
+                    [
+                        "'customer support'",
+                        "'positive'"
+                    ],
+                    [
+                        "'customer support'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "positive"
+                ],
+                [
+                    "customer support",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('customer support', 'negative')]",
+                "predictions": [
+                    [
+                        "'customer support'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative'), ('technical performance', 'negative'), ('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "pricing",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('pricing', 'negative')]",
+                "predictions": [
+                    [
+                        "'pricing'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "pricing",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('technical performance', 'positive'), ('technical performance', 'positive'), ('technical performance', 'positive'), ('technical performance', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative'), ('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('customer support', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'customer support'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ],
+                [
+                    "customer support",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'positive'), ('technical performance', 'positive')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "technical performance",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "negative"
+                ],
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative'), ('general experience', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ],
+                    [
+                        "'general experience'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative'), ('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ],
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ],
+                [
+                    "interface design",
+                    "negative"
+                ],
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('interface design', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ],
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('interface design', 'negative'), ('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'interface design'",
+                        "'negative'"
+                    ],
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "interface design",
+                    "negative"
+                ],
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'neutral')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'neutral'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "neutral"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "functional scope",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive'), ('interface design', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ],
+                    [
+                        "'interface design'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ],
+                [
+                    "interface design",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('general experience', 'negative')]",
+                "predictions": [
+                    [
+                        "'general experience'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'negative')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "ease of use",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('ease of use', 'positive')]",
+                "predictions": [
+                    [
+                        "'ease of use'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "general experience",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('customer support', 'positive')]",
+                "predictions": [
+                    [
+                        "'customer support'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "positive"
+                ],
+                [
+                    "ease of use",
+                    "positive"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('technical performance', 'negative'), ('technical performance', 'negative'), ('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'technical performance'",
+                        "'negative'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "technical performance",
+                    "negative"
+                ],
+                [
+                    "technical performance",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('customer support', 'negative')]",
+                "predictions": [
+                    [
+                        "'customer support'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('functional scope', 'negative')]",
+                "predictions": [
+                    [
+                        "'functional scope'",
+                        "'negative'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "functional scope",
+                    "negative"
+                ]
+            ]
+        },
+        {
+            "predictions": {
+                "output": " [('customer support', 'positive'), ('customer support', 'positive'), ('functional scope', 'positive')]",
+                "predictions": [
+                    [
+                        "'customer support'",
+                        "'positive'"
+                    ],
+                    [
+                        "'customer support'",
+                        "'positive'"
+                    ],
+                    [
+                        "'functional scope'",
+                        "'positive'"
+                    ]
+                ]
+            },
+            "gold_labels": [
+                [
+                    "customer support",
+                    "positive"
+                ],
+                [
+                    "customer support",
+                    "positive"
+                ],
+                [
+                    "customer support",
+                    "positive"
+                ]
+            ]
+        }
+    ]
+}

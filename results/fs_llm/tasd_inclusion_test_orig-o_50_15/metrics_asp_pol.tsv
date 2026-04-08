@@ -1,0 +1,20 @@
+	precision	recall	f1	accuracy	support
+accidents	0.55	0.6111	0.5789	0.4074	27.0
+acoustic signal	0	0	0	0	0
+barrier general	0.5083	0.7235	0.5971	0.4256	289.0
+barrier others	0.0909	0.0323	0.0476	0.0244	41.0
+construction site	0.2273	0.2778	0.25	0.1429	35.0
+demonstration	0.5366	0.5	0.5176	0.3492	63.0
+escalator	0.9177	0.9416	0.9295	0.8683	167.0
+ground level access	0.1786	0.3571	0.2381	0.1351	37.0
+guiding routes	0.0	0.0	0.0	0.0	6.0
+info	0.0	0.0	0.0	0.0	23.0
+info acoustic	0.7564	0.8551	0.8027	0.6705	88.0
+info display	0.8346	0.8538	0.8441	0.7303	152.0
+lift	0.8604	0.8129	0.836	0.7182	369.0
+lighting	0.8349	0.875	0.8545	0.7459	122.0
+ramp	0.4872	0.6129	0.5429	0.3725	51.0
+security	0.25	0.0714	0.1111	0.0588	17.0
+space	0.0	0.0	0.0	0.0	11.0
+Micro-AVG	0.7114	0.7461	0.7284	0.5728	1498.0
+Macro-AVG	0.4137	0.4426	0.4206		1498

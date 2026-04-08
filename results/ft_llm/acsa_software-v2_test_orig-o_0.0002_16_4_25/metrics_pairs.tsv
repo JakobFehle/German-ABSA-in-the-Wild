@@ -1,0 +1,24 @@
+	precision	recall	f1	accuracy	support
+usability:positive	0.7073	0.716	0.7117	0.5524	105.0
+usability:neutral	0	0	0	0	0
+usability:negative	0.7414	0.5059	0.6014	0.43	100.0
+interface:positive	0.8108	0.5882	0.6818	0.5172	58.0
+interface:neutral	0.0	0.0	0.0	0.0	1.0
+interface:negative	0.6604	0.7778	0.7143	0.5556	63.0
+general:positive	0.5	0.7115	0.5873	0.4157	89.0
+general:neutral	0.5	0.4286	0.4615	0.3	10.0
+general:negative	0.6585	0.7297	0.6923	0.5294	51.0
+performance:positive	0.5833	0.5385	0.56	0.3889	36.0
+performance:neutral	0	0	0	0	0
+performance:negative	0.6104	0.7344	0.6667	0.5	94.0
+price:positive	0	0	0	0	0
+price:neutral	0	0	0	0	0
+price:negative	1.0	0.8	0.8889	0.8	10.0
+features:positive	0.7361	0.6625	0.6974	0.5354	99.0
+features:neutral	0.0	0.0	0.0	0.0	3.0
+features:negative	0.7091	0.6724	0.6903	0.527	148.0
+service:positive	0.3488	0.9375	0.5085	0.3409	44.0
+service:neutral	0	0	0	0	0
+service:negative	0.75	0.6667	0.7059	0.5455	22.0
+Micro-AVG	0.6562	0.6647	0.6604	0.493	933.0
+Macro-AVG	0.4436	0.4509	0.4366		933

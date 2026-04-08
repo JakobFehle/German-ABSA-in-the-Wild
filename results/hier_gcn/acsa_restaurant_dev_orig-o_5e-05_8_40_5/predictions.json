@@ -1,0 +1,3636 @@
+{
+    "test": [
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:neutral",
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "general impression:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:positive"
+            ],
+            "gold_labels": [
+                "price:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "food:negative",
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:positive",
+                "food:positive"
+            ],
+            "gold_labels": [
+                "price:positive",
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative",
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "general impression:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "general impression:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "food:negative"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:neutral",
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "price:neutral",
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:neutral"
+            ],
+            "gold_labels": [
+                "general impression:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "food:negative"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "food:negative"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "food:positive"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:positive"
+            ],
+            "gold_labels": [
+                "price:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative",
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "general impression:positive",
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "food:negative",
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:negative",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:positive",
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "food:negative",
+                "service:negative",
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "food:negative",
+                "service:negative",
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "price:positive",
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "price:positive",
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:positive"
+            ],
+            "gold_labels": [
+                "price:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "general impression:positive",
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:positive",
+                "food:positive"
+            ],
+            "gold_labels": [
+                "price:positive",
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:negative",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "food:negative",
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral",
+                "service:negative",
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "food:neutral",
+                "service:negative",
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "general impression:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative",
+                "food:negative"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:positive"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "price:negative",
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "general impression:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "price:negative"
+            ],
+            "gold_labels": [
+                "price:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative",
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "general impression:negative",
+                "ambience:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "price:positive",
+                "service:positive",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "price:positive",
+                "service:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:positive"
+            ],
+            "gold_labels": [
+                "food:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative",
+                "service:positive"
+            ],
+            "gold_labels": [
+                "food:positive",
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambience:positive"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general impression:positive",
+                "ambience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "food:neutral"
+            ],
+            "gold_labels": [
+                "food:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative"
+            ],
+            "gold_labels": [
+                "food:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:negative"
+            ],
+            "gold_labels": [
+                "general impression:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "food:negative",
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general impression:positive"
+            ],
+            "gold_labels": [
+                "general impression:positive"
+            ]
+        }
+    ]
+}

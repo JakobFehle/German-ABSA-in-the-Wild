@@ -1,0 +1,8242 @@
+{
+    "test": [
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "space:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive",
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "info display:negative",
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "ground level access:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative",
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ground level access:negative"
+            ],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative",
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "construction site:negative",
+                "ground level access:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "ground level access:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative",
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative",
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive",
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:negative",
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive",
+                "info display:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative",
+                "lighting:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier others:negative"
+            ],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "barrier general:neutral",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "barrier general:neutral",
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "escalator:positive"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative",
+                "lighting:neutral"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ramp:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier others:positive"
+            ],
+            "gold_labels": [
+                "barrier others:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "space:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "guiding routes:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "ground level access:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "space:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative",
+                "info:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:positive",
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier others:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative",
+                "info:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral",
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier others:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "guiding routes:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "space:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ground level access:negative"
+            ],
+            "gold_labels": [
+                "ground level access:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "accidents:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative",
+                "info:neutral"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "guiding routes:neutral"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "space:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative",
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "construction site:negative",
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "guiding routes:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info display:negative",
+                "info:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info display:positive",
+                "info:negative",
+                "info:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier others:negative"
+            ],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:positive",
+                "space:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative",
+                "info:negative"
+            ],
+            "gold_labels": [
+                "info display:negative",
+                "info:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:positive"
+            ],
+            "gold_labels": [
+                "escalator:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative",
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative",
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative",
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier others:negative"
+            ],
+            "gold_labels": [
+                "barrier others:negative",
+                "barrier others:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:neutral"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "escalator:positive"
+            ],
+            "gold_labels": [
+                "escalator:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:negative",
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:positive"
+            ],
+            "gold_labels": [
+                "escalator:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative",
+                "info display:negative",
+                "info:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:positive"
+            ],
+            "gold_labels": [
+                "escalator:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative",
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "construction site:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative",
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "construction site:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative",
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:positive"
+            ],
+            "gold_labels": [
+                "escalator:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:positive",
+                "ground level access:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative",
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "ground level access:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "space:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "construction site:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative",
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative",
+                "ground level access:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative",
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative",
+                "info:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "construction site:negative"
+            ],
+            "gold_labels": [
+                "construction site:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:positive"
+            ],
+            "gold_labels": [
+                "ramp:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:negative",
+                "barrier others:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative",
+                "info:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "barrier others:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "construction site:neutral"
+            ],
+            "gold_labels": [
+                "construction site:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative",
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ground level access:positive",
+                "ramp:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "escalator:positive"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:positive"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative",
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative",
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ground level access:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "escalator:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ground level access:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative",
+                "info:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ramp:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ramp:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "construction site:negative"
+            ],
+            "gold_labels": [
+                "construction site:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:positive"
+            ],
+            "gold_labels": [
+                "ramp:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "ramp:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "security:negative"
+            ],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "construction site:negative",
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier others:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative",
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative",
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "construction site:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative",
+                "info:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "space:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "construction site:neutral"
+            ],
+            "gold_labels": [
+                "construction site:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative",
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:neutral"
+            ],
+            "gold_labels": [
+                "construction site:neutral"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info display:negative",
+                "info:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative",
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral",
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "ramp:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "construction site:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info acoustic:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:positive"
+            ],
+            "gold_labels": [
+                "escalator:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "barrier others:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ramp:negative"
+            ],
+            "gold_labels": [
+                "ramp:negative",
+                "ramp:neutral"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ramp:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "construction site:negative"
+            ],
+            "gold_labels": [
+                "construction site:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier others:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:negative"
+            ],
+            "gold_labels": [
+                "info display:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info display:positive"
+            ],
+            "gold_labels": [
+                "info display:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative"
+            ],
+            "gold_labels": [
+                "escalator:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "info acoustic:negative"
+            ],
+            "gold_labels": [
+                "info acoustic:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative",
+                "lift:negative",
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:neutral",
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive",
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative",
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative",
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:neutral"
+            ],
+            "gold_labels": [
+                "demonstration:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "demonstration:negative"
+            ],
+            "gold_labels": [
+                "demonstration:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ground level access:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier others:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "security:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:neutral"
+            ],
+            "gold_labels": [
+                "lift:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:positive"
+            ],
+            "gold_labels": [
+                "lift:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative",
+                "ground level access:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:positive",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral",
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative",
+                "ramp:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:positive"
+            ],
+            "gold_labels": [
+                "barrier general:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "barrier general:neutral"
+            ],
+            "gold_labels": [
+                "barrier general:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative",
+                "lighting:neutral"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:positive"
+            ],
+            "gold_labels": [
+                "lighting:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lighting:negative"
+            ],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "lighting:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "escalator:negative",
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "barrier general:negative",
+                "escalator:negative",
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ground level access:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "space:negative"
+            ],
+            "gold_labels": [
+                "space:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "accidents:negative"
+            ],
+            "gold_labels": [
+                "accidents:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "barrier general:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "lift:negative"
+            ],
+            "gold_labels": [
+                "lift:negative"
+            ]
+        }
+    ]
+}

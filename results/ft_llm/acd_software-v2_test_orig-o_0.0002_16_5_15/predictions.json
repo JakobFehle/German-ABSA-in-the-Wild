@@ -1,0 +1,5972 @@
+{
+    "test": [
+        {
+            "predictions": {
+                "output": " ['ease of use', 'technical performance']",
+                "predictions": [
+                    "ease of use",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'general experience']",
+                "predictions": [
+                    "interface design",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'ease of use', 'ease of use']",
+                "predictions": [
+                    "ease of use",
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "customer support",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'general experience']",
+                "predictions": [
+                    "functional scope",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'interface design']",
+                "predictions": [
+                    "interface design",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope', 'ease of use', 'technical performance']",
+                "predictions": [
+                    "interface design",
+                    "functional scope",
+                    "ease of use",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'technical performance']",
+                "predictions": [
+                    "ease of use",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'interface design', 'interface design']",
+                "predictions": [
+                    "interface design",
+                    "interface design",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support','customer support']",
+                "predictions": [
+                    "customer support",
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'interface design']",
+                "predictions": [
+                    "ease of use",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'functional scope']",
+                "predictions": [
+                    "ease of use",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope', 'technical performance', 'ease of use', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope",
+                    "technical performance",
+                    "ease of use",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "interface design",
+                "functional scope",
+                "ease of use",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'general experience']",
+                "predictions": [
+                    "interface design",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'functional scope']",
+                "predictions": [
+                    "general experience",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'general experience']",
+                "predictions": [
+                    "ease of use",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'technical performance']",
+                "predictions": [
+                    "interface design",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'general experience']",
+                "predictions": [
+                    "ease of use",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'functional scope']",
+                "predictions": [
+                    "general experience",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'ease of use']",
+                "predictions": [
+                    "general experience",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "ease of use",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'ease of use']",
+                "predictions": [
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'ease of use']",
+                "predictions": [
+                    "functional scope",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'ease of use']",
+                "predictions": [
+                    "general experience",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "pricing",
+                "technical performance",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['pricing']",
+                "predictions": [
+                    "pricing"
+                ]
+            },
+            "gold_labels": [
+                "pricing"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'general experience']",
+                "predictions": [
+                    "interface design",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['pricing']",
+                "predictions": [
+                    "pricing"
+                ]
+            },
+            "gold_labels": [
+                "pricing"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'general experience']",
+                "predictions": [
+                    "functional scope",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'interface design']",
+                "predictions": [
+                    "ease of use",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'general experience']",
+                "predictions": [
+                    "general experience",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'ease of use']",
+                "predictions": [
+                    "functional scope",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope', 'interface design']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'ease of use', 'ease of use', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "ease of use",
+                    "ease of use",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "technical performance",
+                "functional scope",
+                "ease of use",
+                "functional scope",
+                "ease of use",
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'general experience']",
+                "predictions": [
+                    "ease of use",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "customer support",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'interface design']",
+                "predictions": [
+                    "ease of use",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'interface design']",
+                "predictions": [
+                    "ease of use",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'general experience']",
+                "predictions": [
+                    "technical performance",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'ease of use', 'ease of use']",
+                "predictions": [
+                    "ease of use",
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "ease of use",
+                "technical performance",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design','customer support']",
+                "predictions": [
+                    "interface design",
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support",
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'functional scope']",
+                "predictions": [
+                    "ease of use",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'technical performance']",
+                "predictions": [
+                    "general experience",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'general experience']",
+                "predictions": [
+                    "ease of use",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'functional scope', 'ease of use']",
+                "predictions": [
+                    "technical performance",
+                    "functional scope",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope', 'functional scope', 'functional scope', 'pricing']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope",
+                    "functional scope",
+                    "functional scope",
+                    "pricing"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "ease of use",
+                "ease of use",
+                "pricing"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'general experience']",
+                "predictions": [
+                    "ease of use",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'functional scope']",
+                "predictions": [
+                    "general experience",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'functional scope', 'functional scope']",
+                "predictions": [
+                    "technical performance",
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support', 'functional scope', 'functional scope']",
+                "predictions": [
+                    "customer support",
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "customer support",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'general experience', 'ease of use']",
+                "predictions": [
+                    "technical performance",
+                    "general experience",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'interface design', 'interface design', 'interface design']",
+                "predictions": [
+                    "interface design",
+                    "interface design",
+                    "interface design",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope",
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'interface design', 'interface design', 'interface design']",
+                "predictions": [
+                    "interface design",
+                    "interface design",
+                    "interface design",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use",
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['pricing', 'pricing']",
+                "predictions": [
+                    "pricing",
+                    "pricing"
+                ]
+            },
+            "gold_labels": [
+                "pricing"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['pricing', 'functional scope']",
+                "predictions": [
+                    "pricing",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "pricing",
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'ease of use']",
+                "predictions": [
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support','customer support']",
+                "predictions": [
+                    "customer support",
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'interface design']",
+                "predictions": [
+                    "ease of use",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance', 'ease of use']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'ease of use']",
+                "predictions": [
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'interface design']",
+                "predictions": [
+                    "interface design",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'ease of use']",
+                "predictions": [
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'technical performance']",
+                "predictions": [
+                    "ease of use",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'ease of use']",
+                "predictions": [
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'functional scope', 'functional scope']",
+                "predictions": [
+                    "ease of use",
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'technical performance']",
+                "predictions": [
+                    "interface design",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'general experience']",
+                "predictions": [
+                    "ease of use",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'functional scope']",
+                "predictions": [
+                    "general experience",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'technical performance']",
+                "predictions": [
+                    "ease of use",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'general experience']",
+                "predictions": [
+                    "ease of use",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'functional scope']",
+                "predictions": [
+                    "general experience",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['pricing']",
+                "predictions": [
+                    "pricing"
+                ]
+            },
+            "gold_labels": [
+                "pricing"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope','customer support']",
+                "predictions": [
+                    "functional scope",
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support",
+                "functional scope",
+                "pricing"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'ease of use', 'technical performance']",
+                "predictions": [
+                    "ease of use",
+                    "ease of use",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'ease of use']",
+                "predictions": [
+                    "functional scope",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'technical performance']",
+                "predictions": [
+                    "interface design",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use",
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'functional scope']",
+                "predictions": [
+                    "ease of use",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance','customer support', 'functional scope']",
+                "predictions": [
+                    "technical performance",
+                    "customer support",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "customer support",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'functional scope']",
+                "predictions": [
+                    "general experience",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "general experience",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope','customer support']",
+                "predictions": [
+                    "functional scope",
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'interface design']",
+                "predictions": [
+                    "ease of use",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'functional scope', 'functional scope']",
+                "predictions": [
+                    "ease of use",
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'technical performance', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "technical performance",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "ease of use",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'interface design']",
+                "predictions": [
+                    "ease of use",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "ease of use",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'interface design']",
+                "predictions": [
+                    "technical performance",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'ease of use']",
+                "predictions": [
+                    "technical performance",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "functional scope",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'ease of use']",
+                "predictions": [
+                    "general experience",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'functional scope']",
+                "predictions": [
+                    "interface design",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'ease of use']",
+                "predictions": [
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design', 'general experience']",
+                "predictions": [
+                    "interface design",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['pricing']",
+                "predictions": [
+                    "pricing"
+                ]
+            },
+            "gold_labels": [
+                "pricing"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'functional scope', 'interface design', 'ease of use']",
+                "predictions": [
+                    "ease of use",
+                    "functional scope",
+                    "interface design",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use",
+                "ease of use",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'functional scope', 'functional scope']",
+                "predictions": [
+                    "general experience",
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "ease of use",
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'general experience']",
+                "predictions": [
+                    "ease of use",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'functional scope']",
+                "predictions": [
+                    "general experience",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience', 'functional scope']",
+                "predictions": [
+                    "general experience",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'interface design']",
+                "predictions": [
+                    "ease of use",
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope']",
+                "predictions": [
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'technical performance']",
+                "predictions": [
+                    "functional scope",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "general experience",
+                "functional scope",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'ease of use']",
+                "predictions": [
+                    "functional scope",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope"
+                ]
+            },
+            "gold_labels": [
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use', 'ease of use']",
+                "predictions": [
+                    "ease of use",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "interface design"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['pricing', 'general experience']",
+                "predictions": [
+                    "pricing",
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "pricing"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance']",
+                "predictions": [
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['technical performance', 'technical performance', 'functional scope', 'technical performance']",
+                "predictions": [
+                    "technical performance",
+                    "technical performance",
+                    "functional scope",
+                    "technical performance"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "functional scope",
+                "functional scope"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['ease of use']",
+                "predictions": [
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "ease of use"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['interface design']",
+                "predictions": [
+                    "interface design"
+                ]
+            },
+            "gold_labels": [
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['customer support']",
+                "predictions": [
+                    "customer support"
+                ]
+            },
+            "gold_labels": [
+                "customer support",
+                "customer support"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['functional scope', 'functional scope', 'ease of use']",
+                "predictions": [
+                    "functional scope",
+                    "functional scope",
+                    "ease of use"
+                ]
+            },
+            "gold_labels": [
+                "technical performance",
+                "functional scope",
+                "ease of use",
+                "technical performance"
+            ]
+        },
+        {
+            "predictions": {
+                "output": " ['general experience']",
+                "predictions": [
+                    "general experience"
+                ]
+            },
+            "gold_labels": [
+                "general experience"
+            ]
+        }
+    ]
+}

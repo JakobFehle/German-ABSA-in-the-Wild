@@ -1,0 +1,2060 @@
+{
+    "test": [
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:positive"
+            ],
+            "gold_labels": [
+                "interface design:negative",
+                "technical performance:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "interface design:negative",
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "pricing:negative"
+            ],
+            "gold_labels": [
+                "pricing:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative",
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative",
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "technical performance:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "interface design:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "technical performance:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "technical performance:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative"
+            ],
+            "gold_labels": [
+                "customer support:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative",
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative",
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative",
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "functional scope:negative",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "customer support:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "pricing:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "functional scope:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "technical performance:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general experience:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "customer support:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative",
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative",
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "customer support:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative",
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative",
+                "interface design:negative",
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "interface design:positive",
+                "technical performance:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "interface design:positive",
+                "technical performance:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "technical performance:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "interface design:negative",
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "pricing:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive",
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive",
+                "technical performance:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "technical performance:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "technical performance:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative",
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "customer support:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "interface design:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "interface design:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "interface design:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative",
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general experience:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative",
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative",
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "technical performance:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "technical performance:positive",
+                "customer support:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative"
+            ],
+            "gold_labels": [
+                "customer support:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative",
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative",
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative",
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:positive"
+            ],
+            "gold_labels": [
+                "customer support:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive",
+                "customer support:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative"
+            ],
+            "gold_labels": [
+                "customer support:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative",
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "pricing:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "pricing:negative"
+            ],
+            "gold_labels": [
+                "pricing:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative"
+            ],
+            "gold_labels": [
+                "customer support:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "technical performance:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "interface design:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative",
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative",
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive",
+                "customer support:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive",
+                "customer support:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "technical performance:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general experience:negative",
+                "customer support:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "general experience:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive",
+                "interface design:positive",
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative",
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative",
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "interface design:negative",
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "interface design:negative",
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:positive"
+            ],
+            "gold_labels": [
+                "general experience:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "functional scope:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative",
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "interface design:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "general experience:negative"
+            ],
+            "gold_labels": [
+                "general experience:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:positive"
+            ],
+            "gold_labels": [
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ease of use:negative"
+            ],
+            "gold_labels": [
+                "ease of use:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "general experience:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:positive"
+            ],
+            "gold_labels": [
+                "customer support:positive",
+                "ease of use:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "technical performance:negative"
+            ],
+            "gold_labels": [
+                "technical performance:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "customer support:negative"
+            ],
+            "gold_labels": [
+                "customer support:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:negative"
+            ],
+            "gold_labels": [
+                "functional scope:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "functional scope:positive"
+            ],
+            "gold_labels": [
+                "customer support:positive"
+            ]
+        }
+    ]
+}

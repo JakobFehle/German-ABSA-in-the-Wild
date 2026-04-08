@@ -1,0 +1,10 @@
+	precision	recall	f1	accuracy	support
+functional scope	0.6463	0.6463	0.6463	0.4775	111.0
+general experience	0.7941	0.5625	0.6585	0.4909	55.0
+interface design	0.8649	0.7273	0.7901	0.6531	49.0
+technical performance	0.7941	0.6136	0.6923	0.5294	51.0
+pricing	1.0	0.4	0.5714	0.4	5.0
+customer support	0.875	0.5385	0.6667	0.5	14.0
+ease of use	0.7532	0.7436	0.7484	0.5979	97.0
+Micro-AVG	0.7518	0.6561	0.7007	0.5393	382.0
+Macro-AVG	0.8182	0.6045	0.682		382

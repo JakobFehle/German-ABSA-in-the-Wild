@@ -1,0 +1,11 @@
+{
+    "model_name": "deepset/gbert-base",
+    "task": "acd",
+    "data_setting": "orig",
+    "dataset": "transport",
+    "per_device_train_batch_size": 16,
+    "learning_rate": 2e-05,
+    "num_train_epochs": 6,
+    "eval_type": "test",
+    "train_runtime": 487.1306047439575
+}

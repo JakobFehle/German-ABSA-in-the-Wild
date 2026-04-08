@@ -1,0 +1,11 @@
+{
+    "model_name": "deepset/gbert-base",
+    "task": "acd",
+    "data_setting": "orig",
+    "dataset": "software/v1",
+    "per_device_train_batch_size": 16,
+    "learning_rate": 2e-05,
+    "num_train_epochs": 30,
+    "eval_type": "test",
+    "train_runtime": 106.63435959815979
+}

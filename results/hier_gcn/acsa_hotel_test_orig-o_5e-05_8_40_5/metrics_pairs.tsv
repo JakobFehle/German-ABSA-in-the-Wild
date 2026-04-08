@@ -1,0 +1,18 @@
+	precision	recall	f1	accuracy	support
+hotel:positive	0.7895	0.8462	0.8168	0.6904	239.0
+hotel:neutral	0.6	0.4412	0.5085	0.3409	44.0
+hotel:negative	0.5385	0.4286	0.4773	0.3134	67.0
+rooms:positive	0.8038	0.8759	0.8383	0.7216	176.0
+rooms:neutral	0.6667	0.3333	0.4444	0.2857	28.0
+rooms:negative	0.6778	0.7922	0.7305	0.5755	106.0
+location:positive	0.7736	0.8786	0.8227	0.6989	176.0
+location:neutral	0.65	0.3714	0.4727	0.3095	42.0
+location:negative	0.7333	0.6111	0.6667	0.5	22.0
+food:positive	0.8496	0.8889	0.8688	0.768	125.0
+food:neutral	0.6818	0.7895	0.7317	0.5769	26.0
+food:negative	0.8462	0.5789	0.6875	0.5238	21.0
+service:positive	0.8951	0.9416	0.9177	0.848	171.0
+service:neutral	0.75	0.3	0.4286	0.2727	11.0
+service:negative	0.6667	0.6667	0.6667	0.5	32.0
+Micro-AVG	0.7793	0.7897	0.7845	0.6454	1286.0
+Macro-AVG	0.7282	0.6496	0.6719		1286

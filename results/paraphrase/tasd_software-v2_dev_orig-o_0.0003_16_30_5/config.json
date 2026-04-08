@@ -1,0 +1,11 @@
+{
+    "model_name": "t5-base",
+    "task": "tasd",
+    "data_setting": "orig",
+    "dataset": "software/v2",
+    "per_device_train_batch_size": 16,
+    "learning_rate": 0.0003,
+    "num_train_epochs": 30,
+    "eval_type": "dev",
+    "train_runtime": 419.1649098396301
+}

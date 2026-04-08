@@ -1,0 +1,54 @@
+	precision	recall	f1	accuracy	support
+space:positive	1.0	0.3333	0.5	0.3333	3.0
+space:neutral	1.0	0.5	0.6667	0.5	2.0
+space:negative	0.2222	0.1429	0.1739	0.0952	21.0
+lift:positive	0.7941	0.9	0.8438	0.7297	74.0
+lift:neutral	0.8214	0.5897	0.6866	0.5227	44.0
+lift:negative	0.8915	0.935	0.9127	0.8394	274.0
+lighting:positive	0.8333	0.8824	0.8571	0.75	20.0
+lighting:neutral	1.0	0.5	0.6667	0.5	2.0
+lighting:negative	0.9634	0.9518	0.9576	0.9186	86.0
+accidents:positive	0	0	0	0	0
+accidents:neutral	0	0	0	0	0
+accidents:negative	0.7	0.6087	0.6512	0.4828	29.0
+barrier general:positive	0.8302	0.898	0.8627	0.7586	58.0
+barrier general:neutral	0.7097	0.6667	0.6875	0.5238	42.0
+barrier general:negative	0.7714	0.6835	0.7248	0.5684	95.0
+escalator:positive	0.6471	0.6875	0.6667	0.5	22.0
+escalator:neutral	0.0	0.0	0.0	0.0	5.0
+escalator:negative	0.9257	0.9514	0.9384	0.8839	155.0
+info display:positive	0.7273	0.6154	0.6667	0.5	16.0
+info display:neutral	0.8	0.4444	0.5714	0.4	10.0
+info display:negative	0.8583	0.8729	0.8655	0.763	135.0
+info:positive	0.0	0.0	0.0	0.0	2.0
+info:neutral	0.5	0.25	0.3333	0.2	5.0
+info:negative	0.4286	0.5455	0.48	0.3158	19.0
+info acoustic:positive	0	0	0	0	0
+info acoustic:neutral	0.0	0.0	0.0	0.0	4.0
+info acoustic:negative	0.8857	0.9688	0.9254	0.8611	72.0
+guiding routes:positive	0	0	0	0	0
+guiding routes:neutral	0.0	0.0	0.0	0.0	3.0
+guiding routes:negative	0.0	0.0	0.0	0.0	1.0
+barrier others:positive	0.5	0.5	0.5	0.3333	6.0
+barrier others:neutral	0.0	0.0	0.0	0.0	4.0
+barrier others:negative	0.3	0.4	0.3429	0.2069	29.0
+ground level access:positive	0	0	0	0	0
+ground level access:neutral	0	0	0	0	0
+ground level access:negative	0.5385	0.4118	0.4667	0.3043	23.0
+construction site:positive	0	0	0	0	0
+construction site:neutral	0.25	0.25	0.25	0.1429	14.0
+construction site:negative	0.875	0.7	0.7778	0.6364	11.0
+ramp:positive	0.5	0.25	0.3333	0.2	5.0
+ramp:neutral	0.0	0.0	0.0	0.0	5.0
+ramp:negative	0.6471	0.8462	0.7333	0.5789	19.0
+demonstration:positive	1.0	0.3333	0.5	0.3333	3.0
+demonstration:neutral	0.6552	0.76	0.7037	0.5429	35.0
+demonstration:negative	0.9444	0.6296	0.7556	0.6071	28.0
+security:positive	0.0	0.0	0.0	0.0	1.0
+security:neutral	0	0	0	0	0
+security:negative	0.84	0.6774	0.75	0.6	35.0
+acoustic signal:positive	0	0	0	0	0
+acoustic signal:neutral	0	0	0	0	0
+acoustic signal:negative	0	0	0	0	0
+Micro-AVG	0.82	0.8017	0.8107	0.6817	1417.0
+Macro-AVG	0.458	0.386	0.4069		1417

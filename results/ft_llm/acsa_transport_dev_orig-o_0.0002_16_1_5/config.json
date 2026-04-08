@@ -1,0 +1,21 @@
+{
+    "model_name": "meta-llama/Llama-3.1-8B",
+    "task": "acsa",
+    "data_setting": "orig",
+    "dataset": "transport",
+    "per_device_train_batch_size": 16,
+    "gradient_accumulation_steps": 1,
+    "learning_rate": 0.0002,
+    "num_train_epochs": 1,
+    "eval_type": "dev",
+    "lr_scheduler_type": "linear",
+    "seed": 5,
+    "used_memory": 11.287,
+    "used_memory_for_lora": 3.662,
+    "temperature": 0,
+    "max_tokens": 200,
+    "top_k": -1,
+    "top_p": 1,
+    "training_time": "1:25:40.716316",
+    "eval_time": 3339.9789974689484
+}

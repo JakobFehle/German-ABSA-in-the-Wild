@@ -1,0 +1,63 @@
+	precision	recall	f1	accuracy	support
+general:positive	0.2564	0.2128	0.2326	0.1316	76.0
+general:neutral	0.7313	0.4478	0.5555	0.3846	1295.0
+general:negative	0.4413	0.2995	0.3568	0.2172	571.0
+miscellaneous:positive	1.0	0.3333	0.5	0.3333	3.0
+miscellaneous:neutral	0.0	0.0	0.0	0.0	6.0
+miscellaneous:negative	0.5586	0.3918	0.4605	0.2992	478.0
+tickets:positive	0.5455	0.1875	0.2791	0.1622	37.0
+tickets:neutral	1.0	0.0263	0.0513	0.0263	76.0
+tickets:negative	0.4375	0.28	0.3415	0.2059	68.0
+safety:positive	0.0	0.0	0.0	0.0	7.0
+safety:neutral	0.0	0.0	0.0	0.0	3.0
+safety:negative	0.1438	0.1117	0.1257	0.0671	313.0
+atmosphere:positive	1.0	0.1364	0.24	0.1364	22.0
+atmosphere:neutral	0.25	0.0357	0.0625	0.0323	31.0
+atmosphere:negative	0.3716	0.2477	0.2973	0.1746	315.0
+ride:positive	0.102	0.098	0.1	0.0526	95.0
+ride:neutral	0.0	0.0	0.0	0.0	56.0
+ride:negative	0.5	0.4502	0.4738	0.3104	364.0
+information:positive	0.6667	0.4	0.5	0.3333	6.0
+information:neutral	0.125	0.027	0.0444	0.0227	44.0
+information:negative	0.2258	0.3784	0.2828	0.1647	85.0
+capacity:positive	0.0	0.0	0.0	0.0	5.0
+capacity:neutral	0.0	0.0	0.0	0.0	2.0
+capacity:negative	0.5938	0.5135	0.5507	0.38	50.0
+app:positive	0.0	0.0	0.0	0.0	4.0
+app:neutral	0.0	0.0	0.0	0.0	14.0
+app:negative	0.4583	0.55	0.5	0.3333	33.0
+service:positive	0.5455	0.375	0.4444	0.2857	21.0
+service:neutral	0.0	0.0	0.0	0.0	21.0
+service:negative	0.1556	0.3256	0.2105	0.1176	119.0
+connectivity:positive	0.5556	0.3125	0.4	0.25	20.0
+connectivity:neutral	0.2	0.125	0.1538	0.0833	12.0
+connectivity:negative	0.3182	0.5185	0.3944	0.2456	57.0
+child friendliness:positive	0	0	0	0	0
+child friendliness:neutral	0.0	0.0	0.0	0.0	5.0
+child friendliness:negative	0.0	0.0	0.0	0.0	7.0
+comfort:positive	0.6667	0.2222	0.3333	0.2	10.0
+comfort:neutral	0.0	0.0	0.0	0.0	10.0
+comfort:negative	0.3333	0.4	0.3636	0.2222	18.0
+design:positive	0.0	0.0	0.0	0.0	5.0
+design:neutral	0	0	0	0	0
+design:negative	0.0	0.0	0.0	0.0	1.0
+toilets:positive	0	0	0	0	0
+toilets:neutral	0.0	0.0	0.0	0.0	4.0
+toilets:negative	0.4286	0.6	0.5	0.3333	9.0
+accessibility:positive	1.0	0.2	0.3333	0.2	5.0
+accessibility:neutral	1.0	0.5	0.6667	0.5	2.0
+accessibility:negative	0.1667	0.1667	0.1667	0.0909	11.0
+luggage:positive	0	0	0	0	0
+luggage:neutral	0.0	0.0	0.0	0.0	1.0
+luggage:negative	1.0	1.0	1.0	1.0	1.0
+food:positive	0.0	0.0	0.0	0.0	1.0
+food:neutral	0.0	0.0	0.0	0.0	1.0
+food:negative	1.0	0.25	0.4	0.25	4.0
+qr code:positive	0	0	0	0	0
+qr code:neutral	0	0	0	0	0
+qr code:negative	0	0	0	0	0
+image:positive	0	0	0	0	0
+image:neutral	0	0	0	0	0
+image:negative	0	0	0	0	0
+Micro-AVG	0.4895	0.3365	0.3988	0.2491	4404.0
+Macro-AVG	0.2796	0.1687	0.1887		4404

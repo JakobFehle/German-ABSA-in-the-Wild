@@ -1,0 +1,11 @@
+{
+    "model_name": "t5-base",
+    "task": "tasd",
+    "data_setting": "orig",
+    "dataset": "restaurant",
+    "per_device_train_batch_size": 16,
+    "learning_rate": 0.0003,
+    "num_train_epochs": 30,
+    "eval_type": "dev",
+    "train_runtime": 1351.3514485359192
+}

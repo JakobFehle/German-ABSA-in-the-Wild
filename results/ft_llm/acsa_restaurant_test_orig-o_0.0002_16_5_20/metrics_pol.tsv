@@ -1,0 +1,6 @@
+	precision	recall	f1	accuracy	support
+positive	0.8671	0.8735	0.8703	0.7703	762.0
+neutral	0.8571	0.6562	0.7434	0.5915	71.0
+negative	0.8547	0.8293	0.8418	0.7268	615.0
+Micro-AVG	0.8615	0.8439	0.8526	0.7431	1448.0
+Macro-AVG	0.8596	0.7863	0.8185		1448

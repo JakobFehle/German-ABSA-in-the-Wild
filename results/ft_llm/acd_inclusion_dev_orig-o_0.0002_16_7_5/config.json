@@ -1,0 +1,21 @@
+{
+    "model_name": "meta-llama/Llama-3.1-8B",
+    "task": "acd",
+    "data_setting": "orig",
+    "dataset": "inclusion",
+    "per_device_train_batch_size": 16,
+    "gradient_accumulation_steps": 1,
+    "learning_rate": 0.0002,
+    "num_train_epochs": 7,
+    "eval_type": "dev",
+    "lr_scheduler_type": "linear",
+    "seed": 5,
+    "used_memory": 8.846,
+    "used_memory_for_lora": 1.221,
+    "temperature": 0,
+    "max_tokens": 200,
+    "top_k": -1,
+    "top_p": 1,
+    "training_time": "1:17:12.249089",
+    "eval_time": 338.1479983329773
+}
