@@ -1,6 +1,27 @@
 # German Aspect-based Sentiment Analysis in the Wild: B2B Dataset Creation and Cross-Domain Evaluation
 
-This repository contains the experimental setup, results, and processing scripts for our study on **Aspect-Based Sentiment Analysis (ABSA)** on German-language datasets, published at [KONVENS 2025](https://aclanthology.org/2025.konvens-1.19/).
+<div align="center">
+
+Accepted at **KONVENS 2025** · Hildesheim (Germany)
+
+[![Paper](https://img.shields.io/badge/Paper_Download-KONVENS%202025-blue?style=for-the-badge&logo=googlescholar)]([](https://aclanthology.org/2025.konvens-1.19/))
+[![Correspondence](https://img.shields.io/badge/Contact-Jakob%20Fehle-darkred?style=for-the-badge&logo=minutemailer)](mailto:jakob.fehle@ur.de)
+
+---
+
+**Jakob Fehle¹ · Niklas Donhauser¹ · Udo Kruschwitz² · Nils Constantin Hellwig¹ · Christian Wolff¹**
+
+¹Media Informatics Group, University of Regensburg, Germany  
+²Information Science Group, University of Regensburg, Germany
+
+*✉ Correspondence to: [jakob.fehle@ur.de](mailto:jakob.fehle@ur.de)*  
+`{jakob.fehle, niklas.donhauser, udo.kruschwitz, nils-constantin.hellwig, christian.wolff}@ur.de`
+
+---
+
+</div>
+
+> **Abstract:** Aspect-based sentiment analysis (ABSA) enables fine-grained sentiment extraction from user feedback but remains underexplored in many non-English languages and specialized application domains. In this study, we present insights from a multi-stage annotation of Business-to-Business (B2B) software reviews, highlighting key challenges such as domain-specific phrasing and implicit aspect terms. We document annotation practices and systematically benchmark state-of-the-art (SOTA) ABSA models on the three subtasks Aspect Category Detection (ACD), Aspect Category Sentiment Analysis (ACSA), and Target Aspect Sentiment Detection (TASD) using five German datasets. Results show that while simple classifiers remain strong baselines for category detection and fine-tuned Large Language Models (LLMs) excel in more structured tasks, performance varies notably across domains. Our findings emphasize that ABSA methods do not generalize uniformly, and that domain-sensitive annotation and evaluation strategies are essential for robust sentiment analysis.
 
 ---
 
