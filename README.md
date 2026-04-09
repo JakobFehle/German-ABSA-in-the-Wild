@@ -195,7 +195,3 @@ Our results highlight the importance of:
     pages = "213--227"
 }
 ```
-
----
-
-Wenn du willst, kann ich dir noch eine **zweite Version für GitLab mit Badges + Paper-Link + BibTeX** machen (typisch für Paper-Repos).
